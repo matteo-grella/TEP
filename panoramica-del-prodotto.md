@@ -14,7 +14,7 @@ Travel Eye è una **piattaforma di gestione del rischio di mobilità** che rilev
 
 In soli 2 minuti, Travel Eye vi dice se i vostri viaggiatori stanno bene o se hanno bisogno di aiuto. La piattaforma consente inoltre di effettuare chiamate di emergenza, informazioni sulla posizione in caso di emergenza \(se consentito\), richieste di informazioni mirate sullo stato.
 
-![](.gitbook/assets/travel-eye-cover%20%284%29.JPG)
+![](.gitbook/assets/travel-eye-cover%20%286%29.JPG)
 
 ### FUNZIONI CHIAVE
 
