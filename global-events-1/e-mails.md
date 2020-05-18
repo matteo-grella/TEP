@@ -6,5 +6,7 @@ Si prega di notare, un'informazione di sicurezza sarà inviata quando l'impatto 
 
 ![](../.gitbook/assets/security-information_mail.JPG)
 
+## Annuncio
 
+![](../.gitbook/assets/announcement_mail%20%281%29.JPG)
 
