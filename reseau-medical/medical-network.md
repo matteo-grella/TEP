@@ -8,7 +8,7 @@ description: TROUVER LES MEILLEURS SOINS MÉDICAUX À PROXIMITÉ
 
 La page du réseau médical comprend une longue liste de prestataires médicaux que vous pouvez sélectionner à l'aide de filtres. Commencez par sélectionner le lieu où vous recherchez un prestataire médical ou un hôpital et entrez une catégorie ou une spécialité médicale. Pour recevoir les résultats, cliquez à chaque fois sur « Appliquer ».
 
-![](../.gitbook/assets/mn_img01%20%283%29.jpg)
+![](../.gitbook/assets/mn_img01%20%284%29.jpg)
 
 Les résultats vous fourniront une liste d'hôpitaux qui sera également visualisée sur la carte. Vous pouvez cliquer sur les icônes de la carte pour obtenir plus d'informations.
 
