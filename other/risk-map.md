@@ -4,7 +4,7 @@ description: TYPES ET CALQUES
 
 # Carte des risques
 
-![](../.gitbook/assets/riskmap%20%283%29.JPG)
+![](../.gitbook/assets/riskmap%20%284%29.JPG)
 
 ## Qu'est-ce que la carte des risques ?
 
@@ -24,5 +24,5 @@ Il est conseillé de naviguer sur la carte à l'aide de la **barre de recherche*
 
 En un seul coup d'œil, la **carte de chaleur** vous montre les zones à risque. Définie par vos filtres, elle vous indique les zones à éviter et celles qui nécessitent des mesures de sécurité plus strictes. Une menace qui était très forte il y a trois ans ne doit pas nécessairement être présente aujourd'hui, c'est pourquoi il est **impératif d'utiliser le filtre temporel pour obtenir une réponse claire à vos questions.**
 
-![](../.gitbook/assets/risk-map-3%20%283%29.JPG)
+![](../.gitbook/assets/risk-map-3%20%284%29.JPG)
 
