@@ -16,5 +16,5 @@ Se siete interessati a paesi specifici, potete salvarli come preferiti e ricever
 
 Naturalmente, è necessario informarsi su luoghi, argomenti e orari specifici: **Volete sapere se i vostri viaggiatori corrono il rischio di manifestazioni violente durante il soggiorno nella capitale,** o se ci sono scontri nell'entroterra dove si trova il sito del vostro progetto, o in quali stagioni gli uragani portano inondazioni e distruzione in una specifica destinazione di viaggio? **Indirizzate la vostra ricerca in base alle vostre domande specifiche** utilizzando e combinando le molteplici opzioni di filtro.
 
-![](../.gitbook/assets/global-events-list_2%20%282%29.JPG)
+![](../.gitbook/assets/global-events-list_2%20%283%29.JPG)
 
