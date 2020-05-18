@@ -16,5 +16,5 @@ Si está interesado en países específicos, puede guardarlos como favoritos y r
 
 Obviamente, tiene que saber sobre lugares, temas o tiempos específicos: **¿Quiere saber si los viajeros se encuentran ante un peligro de manifestaciones violentas estando en la capital**, o si hay conflictos alrededor de donde se encuentra su proyecto, o en qué estaciones los huracanes provocan inundaciones y destrucción en un destino de viaje específico? **Personalice su búsqueda según sus preguntas específicas** usando y combinando las múltiples opciones de filtros.
 
-![](../.gitbook/assets/global-events-list_2%20%281%29.JPG)
+![](../.gitbook/assets/global-events-list_2%20%282%29.JPG)
 
