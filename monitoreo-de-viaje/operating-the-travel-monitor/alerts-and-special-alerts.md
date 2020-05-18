@@ -11,7 +11,7 @@ Otra vez, la información que recibe en la lista también se muestra en el mapa.
 * ID del Evento 
 * Y los viajeros afectados: clique en el botón para ver una lista de los viajeros que se han visto afectados por el incidente, con la opción de ver también su detalles de viajero. 
 
-![](../../.gitbook/assets/tm_img04%20%282%29.jpg)
+![](../../.gitbook/assets/tm_img04%20%283%29.jpg)
 
 {% hint style="info" %}
 **Tenga en cuenta:** Para información más detallada sobre este tema, por favor consulte la sección **configuración de alertas**.
