@@ -32,7 +32,7 @@ If you want the travellers to be alerted only about the most severe incidents, s
 
 A special alert is triggered, if a critical incident occurs and your travellers are nearby, inside the impact zone of the incident. In this case, you want to know as quickly as possible if your travellers are ok. In the event of a special alert, **affected travellers are called on their registered phone number** in order to find out their status \(status call\). The platform will find out if a **traveller is ok or needs help** and will inform report recipients automatically. In addition to the status call, travellers also receive the incident information with recommendations via email.
 
-![](../../.gitbook/assets/alerting-3%20%282%29.JPG)
+![](../../.gitbook/assets/alerting-3%20%283%29.JPG)
 
 #### What settings can I make?
 
@@ -48,7 +48,7 @@ If you are uncertain about your settings or just curious, how the platform works
 Test your settings before going live!
 {% endhint %}
 
-![](../../.gitbook/assets/alerting-4%20%282%29.JPG)
+![](../../.gitbook/assets/alerting-4%20%283%29.JPG)
 
 ### How to do it?
 
