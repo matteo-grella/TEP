@@ -4,7 +4,7 @@ description: EINBLICKE IN DIE RISIKEN VOR ORT - IN ECHTZEIT
 
 # Globale Vorfälle
 
-![](../.gitbook/assets/ge-cover%20%281%29.JPG)
+![](../.gitbook/assets/ge-cover%20%282%29.JPG)
 
 ## SCHLÜSSELFUNKTIONEN
 
