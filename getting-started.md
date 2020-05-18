@@ -8,7 +8,7 @@ Il y a plusieurs fonctions de base qui sont toujours visibles en haut de chaque 
 
 Commencez à utiliser la plateforme en consultant la barre de navigation. Cliquez/touchez l'icône correspondante et accédez directement au **bouton Appel à assistance/S'enregistrer**, au **moniteur de voyage,** à la **carte des risques**, aux **événements mondiaux**, aux **risques pays**, au **réseau médical** et aux options **d'enregistrement manuel du voyage**. Enfin, vous pouvez accéder à votre profil pour gérer votre compte personnel ou ceux d'autres personnes, selon vos autorisations.
 
-![](.gitbook/assets/getting-started_img01%20%281%29.jpg)
+![](.gitbook/assets/getting-started_img01%20%282%29.jpg)
 
 ### APPEL À ASSISTANCE/S'ENREGISTRER
 
