@@ -14,7 +14,7 @@ Travel Eye is a **mobility risk management platform** that identifies security i
 
 Within only 2 minutes Travel Eye is able to tell you if all of your travellers are ok or need help. The platform also allows emergency calls, location sharing \(if permitted\) in case of emergencies and status requests.
 
-![](.gitbook/assets/travel-eye-cover%20%284%29.JPG)
+![](.gitbook/assets/travel-eye-cover%20%286%29.JPG)
 
 ## KEY FEATURES
 
