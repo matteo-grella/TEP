@@ -2,7 +2,7 @@
 
 ## Annonce
 
-![](../.gitbook/assets/announcement_mail%20%281%29.JPG)
+![](../.gitbook/assets/announcement_mail%20%282%29.JPG)
 
 ## Informations relatives à la sécurité
 
