@@ -29,5 +29,5 @@ Per attivare l'applicazione, procedere come segue:
 3. Inserite il codice nel campo "_Codice di autorizzazione..._" nel vostro profilo utente cliccate su "_Autorizza_". 
 4. Ora siete collegati in modo permanente all'app sul vostro dispositivo mobile.
 
-![](.gitbook/assets/axa-app-travel-eye-user-backend-eng%20%284%29.png)
+![](.gitbook/assets/axa-app-travel-eye-user-backend-eng%20%285%29.png)
 
