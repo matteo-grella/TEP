@@ -12,7 +12,7 @@ In addition, you and your travellers will be alerted by announcements of future 
 
 If you are interested in specific countries, you can save them as favourites and can receive "security information" if anything happens in the country.
 
-![](../.gitbook/assets/global-events-list%20%282%29.JPG)
+![](../.gitbook/assets/global-events-list%20%283%29.JPG)
 
 Of course, you need to find out about specific places, topics and times: **You want to know if your travellers face a risk of violent demonstrations when staying in the capital**, or if there are any clashes in the hinterland where your project site is located, or in what seasons do hurricanes bring flooding and destruction to a specific travel destination? **Target your search according to your specific questions** using and combining the multiple filter options.
 

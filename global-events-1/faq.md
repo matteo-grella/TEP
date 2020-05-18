@@ -16,7 +16,7 @@ A security information/alert is an incident information you receive via email wh
 
 Additionally, you can schedule a **periodic alert digest** of all events which match this favourite.
 
-![](../.gitbook/assets/global-events-faq%20%283%29.JPG)
+![](../.gitbook/assets/global-events-faq%20%284%29.JPG)
 
 ### ALERT
 
