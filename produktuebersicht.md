@@ -14,7 +14,7 @@ Travel Eye ist eine **Mobility Risk Management Plattform**, die weltweit 24/7 Si
 
 Innerhalb von nur 2 Minuten sagt Ihnen Travel Eye, ob es Ihren Reisenden gut geht oder ob sie Hilfe benötigen. Die Plattform ermöglicht auch Notfallanrufe, Standortmittlungen im Notfall \(wenn zugelassen\) gezielte Statusabfragen.
 
-![](.gitbook/assets/travel-eye-cover%20%284%29.JPG)
+![](.gitbook/assets/travel-eye-cover%20%286%29.JPG)
 
 ## SCHLÜSSELFUNKTIONEN
 
