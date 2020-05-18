@@ -6,7 +6,7 @@ description: GARDEZ UN ŒIL SUR VOS VOYAGEURS
 
 Le **moniteur de voyage** est la clé de voûte de la plateforme. Les chargés de voyages peuvent surveiller et superviser les voyageurs et leur statut dans le monde entier, repérer les urgences et lancer des appels pour savoir comment vont les voyageurs. En fonction de vos paramètres, le moniteur de voyage pilote et définit des procédures d'alerte, de communication et d'urgence pour votre entreprise.
 
-![](../../.gitbook/assets/travel-monitor-cover%20%281%29.JPG)
+![](../../.gitbook/assets/travel-monitor-cover%20%282%29.JPG)
 
 ## À quoi ressemble le moniteur de voyage ?
 
