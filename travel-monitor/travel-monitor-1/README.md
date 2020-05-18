@@ -6,7 +6,7 @@ description: MONITOR YOUR TRAVELLERS
 
 The **Travel Monitor** is the heart of the platform. Travel managers can monitor and overview travellers and their statuses worldwide, trace emergencies and initiate status calls. According to your settings, the Travel Monitor steers and defines alerting, communication and emergency procedures for your company.
 
-![](../../.gitbook/assets/travel-monitor-cover%20%283%29.JPG)
+![](../../.gitbook/assets/travel-monitor-cover%20%284%29.JPG)
 
 ## What does the Travel Monitor look like?
 
