@@ -6,7 +6,7 @@ description: IHR PERSÖNLICHES COCKPIT
 
 Der **Travel Monitor** ist das Herzstück der Plattform. Travel Manager können Reisende und deren Status weltweit im Blick behalten, Notfälle verfolgen und Statusabfragen durchführen. Je nach Ihrer Einstellung steuert und definiert der Travel Monitor Alerting, Kommunikation und Sicherheitsvorfälle Ihres Unternehmens.
 
-![](../../.gitbook/assets/travel-monitor-cover%20%283%29.JPG)
+![](../../.gitbook/assets/travel-monitor-cover%20%284%29.JPG)
 
 ## Wie sieht der Travel Monitor aus?
 
