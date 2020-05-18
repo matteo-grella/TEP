@@ -4,7 +4,7 @@ description: VISIÓN A TIEMPO REAL DE LOS RIESGOS EN EL LUGAR
 
 # Eventos Globales
 
-![](../.gitbook/assets/ge-cover%20%284%29.JPG)
+![](../.gitbook/assets/ge-cover%20%285%29.JPG)
 
 ## FUNCIONES PRINCIPALES
 
