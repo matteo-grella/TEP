@@ -16,7 +16,7 @@ description: グローバルな事件に関する質問
 
 さらに、お気に入りに合致する全ての事件に関する**定期的なアラートダイジェスト**の受信設定を行うこともできます。
 
-![](../.gitbook/assets/global-events-faq.JPG)
+![](../.gitbook/assets/global-events-faq%20%283%29.JPG)
 
 ### アラート
 

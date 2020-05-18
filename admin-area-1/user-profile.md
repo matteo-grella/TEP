@@ -20,5 +20,5 @@ description: 個人アカウントを管理する
 PTIの設定において「雇用国を含まない」が選択されている場合、渡航者は対象国のPTIを受信しないことに注意してください。
 {% endhint %}
 
-![](../.gitbook/assets/user-profile%20%284%29.jpg)
+![](../.gitbook/assets/user-profile%20%285%29.jpg)
 
