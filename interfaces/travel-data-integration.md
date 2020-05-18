@@ -10,7 +10,7 @@ Il vous arrive parfois de ne pas pouvoir suivre correctement vos voyageurs parce
 
 L'enregistrement dans le calendrier permet à vos voyageurs d'inviter la plateforme à tous leurs rendez-vous et voyages dans le monde entier. Les voyageurs peuvent inviter la plateforme à leur voyage de 3 jours en ville avec des réunions d'affaires ainsi qu'à leur visite d'un site de projet situé dans une zone rurale à haut risque et même à de courts arrêts pendant le trajet. La plateforme sera un compagnon pour vos voyageurs, qui les informera de manière proactive en cas d'incident de sécurité et lancera des procédures d'urgence s'il s'avère qu'ils sont en danger
 
-![](../.gitbook/assets/calendar-trip-registration%20%284%29.jpg)
+![](../.gitbook/assets/calendar-trip-registration%20%285%29.jpg)
 
 **Comment cela fonctionne-t-il ?** \(veuillez noter que ce texte est écrit pour être transmis aux voyageurs\)
 
