@@ -4,7 +4,7 @@ Comment avoir une vue d'ensemble de vos sites ? Cliquez sur le bouton « Sites �
 
 Cliquez sur l'icône d'un site sur la carte ou sur un site dans la liste pour afficher les détails disponibles : l'adresse du site et les coordonnées exactes de son emplacement.
 
-![](../../.gitbook/assets/tm_img03%20%282%29.jpg)
+![](../../.gitbook/assets/tm_img03%20%283%29.jpg)
 
 ## Administration du site : comment intégrer les sites de l'entreprise ?
 
