@@ -4,13 +4,13 @@ description: TYPES AND LAYERS
 
 # Risk Map
 
-![](../.gitbook/assets/riskmap.JPG)
+![](../.gitbook/assets/riskmap%20%281%29.JPG)
 
 ## What is the Risk Map?
 
 The Risk Map is the heart of the platform’s dynamic country information.
 
-![](../.gitbook/assets/rm_img01%20%281%29.jpg)
+![](../.gitbook/assets/rm_img01%20%282%29.jpg)
 
 Zooming into the map reveals the EXOP risk ratings even below country level. It shows the risk of governorates and provinces, **down to cities and even city districts**. Having a closer look at important cities will show violet-marked **areas of higher risk for travellers**. You can select to display different information, **map types** and **layers**.
 
