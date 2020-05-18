@@ -48,7 +48,7 @@ Si vous n'êtes pas sûr de vos paramètres ou si vous êtes simplement curieux 
 Testez vos paramètres avant de les mettre en ligne !
 {% endhint %}
 
-![](../../.gitbook/assets/alerting-4.JPG)
+![](../../.gitbook/assets/alerting-4%20%281%29.JPG)
 
 ### Comment faire ?
 
