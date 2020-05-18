@@ -4,13 +4,13 @@ description: TIPI E LIVELLI
 
 # Mappa del Rischio
 
-![](../.gitbook/assets/riskmap%20%282%29.JPG)
+![](../.gitbook/assets/riskmap%20%283%29.JPG)
 
 ## COS'È LA MAPPA DEL RISCHIO?
 
 La Mappa dei rischi è il cuore delle informazioni dinamiche sui paesi.
 
-![](../.gitbook/assets/rm_img01%20%282%29.jpg)
+![](../.gitbook/assets/rm_img01%20%283%29.jpg)
 
 Lo zoom sulla mappa rivela le classificazioni dei rischi di AXA anche al di sotto del livello del paese. Mostra il rischio delle amministrazioni e delle province, **fino alle città e persino ai distretti cittadini.** Osservando più da vicino le città più importanti, si possono vedere contrassegnate dal colore viola **le aree a rischio più elevato per i viaggiatori**. È possibile selezionare e visualizzare diverse informazioni, **tipi di mappe** e **livelli**. 
 
