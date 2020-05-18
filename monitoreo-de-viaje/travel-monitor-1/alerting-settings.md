@@ -48,7 +48,7 @@ Si no está seguro de su configuración o solamente siente curiosidad para saber
 ¡Pruebe su configuración antes de empezar!
 {% endhint %}
 
-![](../../.gitbook/assets/alerting-4%20%281%29.JPG)
+![](../../.gitbook/assets/alerting-4%20%282%29.JPG)
 
 ### ¿Cómo se hace?
 
