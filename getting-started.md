@@ -8,7 +8,7 @@ There are several basic features that are always visible on the top of each page
 
 Start using the platform by checking out the navigation bar. Click/touch the respective icon and get direct access to the **Emergency Button/ Check In Feature**, **Travel Monitor,** **Risk Map**, **Global Events**, **Country Information** as well as to the **Travel Registration** options. Finally, you can access your profile to administer your personal account or those of others, depending on your permissions.
 
-![](.gitbook/assets/getting-started_img01%20%282%29.jpg)
+![](.gitbook/assets/getting-started_img01%20%283%29.jpg)
 
 ### EMERGENCY BUTTON & CHECK IN FEATURE
 
