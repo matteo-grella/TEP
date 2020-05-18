@@ -10,7 +10,7 @@ La función de registrarse en la barra de navegación es la forma más rápida y
 
 El registro por calendario les permite a sus viajeros invitar la plataforma a cualquiera de sus eventos y viajes en todo el mundo. Los viajeros pueden invitar la plataforma a sus viajes de tres días en una ciudad con reuniones de negocios o también a su visita al lugar de un proyecto en un área rural de alto riesgo e incluso a paradas breves en la carretera. La plataforma será el compañero de su viajero que les informe proactivamente si hubiera un incidente de seguridad e inicia los procedimientos de emergencia si están en peligro
 
-![](../.gitbook/assets/calendar-trip-registration%20%282%29.jpg)
+![](../.gitbook/assets/calendar-trip-registration%20%283%29.jpg)
 
 **¿Cómo funciona?** \(tenga en cuenta que este texto fue escrito para ser reenviado a sus viajeros\)
 
