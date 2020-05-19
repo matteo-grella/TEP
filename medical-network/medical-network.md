@@ -12,13 +12,13 @@ description: 最寄りの最良の医療機関を検索
 
 検索結果から病院のリストが示され、マップ上においても視覚化されます。マップ上のアイコンをクリックすることで、詳細情報を入手することが可能です。
 
-![](../.gitbook/assets/mn_img02%20%283%29.jpg)
+![](../.gitbook/assets/mn_img02%20%285%29.jpg)
 
 対応言語や営業日などの詳細情報を選択するためには、フィルターオプションを使用してください。
 
-![](../.gitbook/assets/mn_img02-filter-option%20%283%29.JPG)
+![](../.gitbook/assets/mn_img02-filter-option.jpg)
 
 絞り込み結果を見るためには、「条件を確定」をクリックしてください。
 
-![](../.gitbook/assets/mn_img03%20%281%29.jpg)
+![](../.gitbook/assets/mn_img03%20%284%29.jpg)
 
