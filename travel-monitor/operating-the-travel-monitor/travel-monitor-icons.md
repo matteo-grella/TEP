@@ -6,7 +6,7 @@ description: 一目で情報を伝える
 
 トラベルモニターのマップ上には、以下のアイコンが使用されています。
 
-![](../../.gitbook/assets/travelmonitoricons.png)
+![](../../.gitbook/assets/icons-traveller.jpg)
 
 {% hint style="info" %}
 複数の渡航者、サイトおよびアラートが同じ場所（拡大表示レベル次第）に存在する時は、1つのアイコンに集約されます。グループアイコンをクリックすることで、情報を異なるグループへと分割表示できます。
