@@ -6,7 +6,7 @@
 
 ![](../../.gitbook/assets/tm_img03%20%282%29.jpg)
 
-### Site Management - How can I integrate company sites?
+### サイト管理 - 自社のサイトを統合する方法
 
 If you click the travel monitor icon in the navigation bar, choose site management to access the editing panel.
 
