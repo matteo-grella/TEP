@@ -8,7 +8,7 @@
 
 ### サイト管理 - 自社のサイトを統合する方法
 
-If you click the travel monitor icon in the navigation bar, choose site management to access the editing panel.
+ナビゲーションバーのトラベルモニターのアイコンをクリックし、編集画面を開くために「SITE MANAGEMENT」を選択してください。
 
 ![](../../.gitbook/assets/image%20%283%29.png)
 
