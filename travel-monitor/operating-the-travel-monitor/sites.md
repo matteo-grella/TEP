@@ -12,7 +12,7 @@
 
 ![](../../.gitbook/assets/image%20%283%29.png)
 
-If you had already some company locations integrated, you can edit or delete them easily if you click the arrow on the right side of the list entry for the site you want to edit.
+すでに自社サイトのロケーション情報が統合されている場合、編集したいサイトの右側の矢印をクリックすることで、簡単に編集あるいは削除することができます。
 
 You can add a new office location or project site if you click the + add site button. Use the search bar in the map to locate your relevant site and use the marker to set the exact location. Name the site and press the green save button. A green message “site added successfully” will appear.
 
