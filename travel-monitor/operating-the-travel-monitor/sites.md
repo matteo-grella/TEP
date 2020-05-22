@@ -14,7 +14,7 @@
 
 すでに自社サイトのロケーション情報が統合されている場合、リスト内で編集したいサイトの右側の矢印をクリックすることで、簡単に編集あるいは削除することができます。
 
-You can add a new office location or project site if you click the + add site button. Use the search bar in the map to locate your relevant site and use the marker to set the exact location. Name the site and press the green save button. A green message “site added successfully” will appear.
+「+ Add Site」ボタンをクリックすることで、新たな事務所やプロジェクト現場のロケーション情報を追加することができます。マップ内の検索バーに対象となるサイトの位置情報を入力し、マーカーを正確な場所に移動させて設定を行ってください。サイト名を入力し、緑色の保存ボタンを押してください。その後、「サイトが追加されました」というメッセージが表示されます。
 
 ![](../../.gitbook/assets/image%20%281%29.png)
 
