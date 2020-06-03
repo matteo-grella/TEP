@@ -37,7 +37,9 @@ Le icone dei viaggiatori hanno colori diversi a seconda del loro **stato nelle u
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Giallo</th>
@@ -52,7 +54,9 @@ Le icone dei viaggiatori hanno colori diversi a seconda del loro **stato nelle u
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Arancione</th>
@@ -70,7 +74,9 @@ Le icone dei viaggiatori hanno colori diversi a seconda del loro **stato nelle u
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Rosso</th>
@@ -88,7 +94,9 @@ Le icone dei viaggiatori hanno colori diversi a seconda del loro **stato nelle u
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Bianco</th>
@@ -103,7 +111,9 @@ Le icone dei viaggiatori hanno colori diversi a seconda del loro **stato nelle u
     </tr>
   </thead>
   <tbody></tbody>
-</table>{% hint style="danger" %}
+</table>
+
+{% hint style="danger" %}
 Si prega di notare che entrambi gli stati Sconosciuto e Bisogno di aiuto **i**ndicano che i viaggiatori potrebbero essere in pericolo e hanno bisogno di assistenza. Il fornitore di assistenza di emergenza avvierà un caso di assistenza, informerà il contatto di emergenza e coordinerà ulteriori misure.
 {% endhint %}
 
