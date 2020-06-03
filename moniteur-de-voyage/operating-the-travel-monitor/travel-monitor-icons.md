@@ -36,7 +36,9 @@ Les icônes des voyageurs ont des couleurs différentes, en fonction de leur **s
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Jaune</th>
@@ -52,7 +54,9 @@ Les icônes des voyageurs ont des couleurs différentes, en fonction de leur **s
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Orange</th>
@@ -73,7 +77,9 @@ Les icônes des voyageurs ont des couleurs différentes, en fonction de leur **s
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Rouge</th>
@@ -93,7 +99,9 @@ Les icônes des voyageurs ont des couleurs différentes, en fonction de leur **s
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Blanc</th>
@@ -109,7 +117,9 @@ Les icônes des voyageurs ont des couleurs différentes, en fonction de leur **s
     </tr>
   </thead>
   <tbody></tbody>
-</table>{% hint style="danger" %}
+</table>
+
+{% hint style="danger" %}
 Veuillez noter que les deux statuts _Inconnu_ et _Besoin d'aide_ indiquent que les voyageurs pourraient être en danger et avoir besoin d'assistance. Le prestataire d'assistance d'urgence initiera un cas d'assistance, informera le contact d'urgence et coordonnera des mesures de suivi spécifiques.
 {% endhint %}
 
