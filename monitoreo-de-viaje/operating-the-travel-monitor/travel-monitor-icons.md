@@ -37,7 +37,9 @@ Los iconos de los viajeros tienen distintos color, dependiendo de su **estado en
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Amarillo</th>
@@ -52,7 +54,9 @@ Los iconos de los viajeros tienen distintos color, dependiendo de su **estado en
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Naranja</th>
@@ -72,7 +76,9 @@ Los iconos de los viajeros tienen distintos color, dependiendo de su **estado en
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Rojo</th>
@@ -91,7 +97,9 @@ Los iconos de los viajeros tienen distintos color, dependiendo de su **estado en
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Blanco</th>
@@ -106,7 +114,9 @@ Los iconos de los viajeros tienen distintos color, dependiendo de su **estado en
     </tr>
   </thead>
   <tbody></tbody>
-</table>{% hint style="danger" %}
+</table>
+
+{% hint style="danger" %}
 Tenga en cuenta que ambos estado _Desconocido_ y _Necesita Ayuda_ indican que el viajero podría estar en peligro y necesitar asistencia. El proveedor de asistencia en emergencias comenzará un caso de asistencia, informará al contacto de emergencia y coordinará las medidas de seguimiento específicas.
 {% endhint %}
 
