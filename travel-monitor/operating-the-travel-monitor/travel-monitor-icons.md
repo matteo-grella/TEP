@@ -33,7 +33,9 @@ description: 一目で情報を伝える
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">&#x9EC4;&#x8272;</th>
@@ -47,7 +49,9 @@ description: 一目で情報を伝える
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">&#x30AA;&#x30EC;&#x30F3;&#x30B8;&#x8272;</th>
@@ -62,7 +66,9 @@ description: 一目で情報を伝える
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">&#x8D64;&#x8272;</th>
@@ -77,7 +83,9 @@ description: 一目で情報を伝える
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">&#x767D;&#x8272;</th>
@@ -91,7 +99,9 @@ description: 一目で情報を伝える
     </tr>
   </thead>
   <tbody></tbody>
-</table>{% hint style="danger" %}
+</table>
+
+{% hint style="danger" %}
 _不明_あるいは_要支援_の両ステータスは、渡航者が危険にさらされ、支援が必要な状況に置かれている可能性があることを示しています。緊急支援プロバイダーが支援措置を開始し、緊急連絡先に通知し、具体的なフォローアップを調整します。
 {% endhint %}
 
