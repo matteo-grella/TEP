@@ -36,7 +36,9 @@ The traveller icons have different colours, depending on their **status within t
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Yellow</th>
@@ -51,7 +53,9 @@ The traveller icons have different colours, depending on their **status within t
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Orange</th>
@@ -69,7 +73,9 @@ The traveller icons have different colours, depending on their **status within t
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Red</th>
@@ -87,7 +93,9 @@ The traveller icons have different colours, depending on their **status within t
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">White</th>
@@ -102,7 +110,9 @@ The traveller icons have different colours, depending on their **status within t
     </tr>
   </thead>
   <tbody></tbody>
-</table>{% hint style="danger" %}
+</table>
+
+{% hint style="danger" %}
 Please note that both statuses _Unknown_ and _Need Help_ indicate that travellers might be in danger and need assistance. The emergency assistance provider will initiate an assistance case, inform the emergency contact and coordinate specific follow-up measures.
 {% endhint %}
 
