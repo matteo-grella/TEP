@@ -37,7 +37,9 @@ Die Symbole für Reisende haben unterschiedliche Farben, je nach ihrem **Status 
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Gelb</th>
@@ -52,7 +54,9 @@ Die Symbole für Reisende haben unterschiedliche Farben, je nach ihrem **Status 
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Orange</th>
@@ -70,7 +74,9 @@ Die Symbole für Reisende haben unterschiedliche Farben, je nach ihrem **Status 
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Rot</th>
@@ -88,7 +94,9 @@ Die Symbole für Reisende haben unterschiedliche Farben, je nach ihrem **Status 
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Wei&#xDF;</th>
@@ -103,7 +111,9 @@ Die Symbole für Reisende haben unterschiedliche Farben, je nach ihrem **Status 
     </tr>
   </thead>
   <tbody></tbody>
-</table>{% hint style="danger" %}
+</table>
+
+{% hint style="danger" %}
 **Bitte beachten Sie**, dass sowohl der Status _Unbekannt_ als auch der Status _Hilfe_ darauf hindeuten, dass Reisende in Gefahr sind und Hilfe benötigen könnten. Der Assistance-Dienstleister wird den Notfallprozess einleiten, den Notfallkontakt informieren und entsprechende Folgemaßnahmen koordinieren.
 {% endhint %}
 
