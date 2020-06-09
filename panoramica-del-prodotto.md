@@ -36,5 +36,5 @@ La seguente guida descrive le funzioni e le caratteristiche più importanti di T
 **Nota bene:** questa è una guida per l'utente e non fornisce una descrizione tecnica dettagliata del processo di allerta della piattaforma o delle procedure di bordo/autenticazione/login.
 {% endhint %}
 
-![](.gitbook/assets/splashscreen.jpg)
+![](.gitbook/assets/pt-alerting.jpg)
 
