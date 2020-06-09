@@ -12,7 +12,7 @@ It is easy to add or invite users. To add a user just click “_Add User_” and
 
 ### **GROUPS**
 
-In this section you can view the available groups. Newly registered users are automatically added to the default group \(usually the Traveler group\). Only one group can be the default group in each organization.
+In this section you can view the available groups. Newly registered users are automatically added to the default group \(usually the Traveller group\). Only one group can be the default group in each organization.
 
 {% hint style="warning" %}
 **Please note:** You are not allowed to delete the default group. Also, you cannot delete a group with existing users linked to this group.

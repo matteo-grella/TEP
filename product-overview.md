@@ -34,5 +34,5 @@ To summarize, Travel Eye:
 **Please note**: This is a user guide and does not provide a detailed technical description of the platform’s alerting process or the onboarding/authentication/login procedures.
 {% endhint %}
 
-![](.gitbook/assets/splashscreen.jpg)
+![](.gitbook/assets/en-alerting.jpg)
 
