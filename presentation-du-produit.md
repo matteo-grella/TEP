@@ -36,5 +36,5 @@ Le guide suivant vise à décrire les principales fonctions et caractéristiques
 **Remarque** : ceci est un guide de l'utilisateur qui ne fournit pas une description technique détaillée du processus d'alerte de la plateforme ou des procédures de mise en route/d'authentification/de connexion.
 {% endhint %}
 
-![](.gitbook/assets/splashscreen.jpg)
+![](.gitbook/assets/fr-alerting.jpg)
 
