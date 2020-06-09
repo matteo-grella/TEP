@@ -21,17 +21,17 @@
 
 ### 渡航者向けのアラート
 
-![](../../.gitbook/assets/e-mail-alert-for-traveller.JPG)
+![](../../.gitbook/assets/alert-reisender.jpg)
 
 ### 管理者向けのアラート
 
-![](../../.gitbook/assets/e-mail-alert-for-manager.JPG)
+![](../../.gitbook/assets/alert-manager.jpg)
 
 ### 渡航者向けの特別なアラート
 
-![](../../.gitbook/assets/e-mail-special-alert-for-traveller.JPG)
+![](../../.gitbook/assets/special-alert-reisender.jpg)
 
 ### 管理者向けの特別なアラート
 
-![](../../.gitbook/assets/e-mail-special-alert-for-manager.JPG)
+![](../../.gitbook/assets/special-alert-manager.jpg)
 
