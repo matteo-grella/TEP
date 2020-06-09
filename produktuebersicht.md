@@ -36,5 +36,5 @@ Der folgende Leitfaden beschreibt die wichtigsten Funktionen und Merkmale von Tr
 **Bitte beachten Sie:** Dies ist ein Benutzerleitfaden und enthält daher keine detaillierte technische Beschreibung des Notfallprozesses der Plattform oder der Onboarding-/Authentifizierungs- /Anmeldeverfahren.
 {% endhint %}
 
-![](.gitbook/assets/de-alerting.jpg)
+![](.gitbook/assets/de-alerting%20%281%29.jpg)
 
