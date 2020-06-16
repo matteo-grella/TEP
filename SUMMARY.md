@@ -52,7 +52,7 @@
 ## ADMIN AREA <a id="admin-area-1"></a>
 
 * [管理画面](admin-area-1/admin-area.md)
-* [ユーザープロファイル](admin-area-1/user-profile.md)
+* [ユーザープロフィール](admin-area-1/user-profile.md)
 * [よくある質問](admin-area-1/faq-1.md)
 
 ## INTERFACES
