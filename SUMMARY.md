@@ -13,7 +13,7 @@
 * [トラベルモニターを使用する](travel-monitor/operating-the-travel-monitor/README.md)
   * [渡航者](travel-monitor/operating-the-travel-monitor/travellers.md)
   * [ステータスおよびアイコン](travel-monitor/operating-the-travel-monitor/travel-monitor-icons.md)
-  * [サイト](travel-monitor/operating-the-travel-monitor/sites.md)
+  * [拠点](travel-monitor/operating-the-travel-monitor/sites.md)
   * [アラートおよび特別なアラート](travel-monitor/operating-the-travel-monitor/alerts-and-special-alerts.md)
 * [よくある質問](travel-monitor/travel-monitor-1-1/README.md)
   * [支援](travel-monitor/travel-monitor-1-1/untitled-1.md)
