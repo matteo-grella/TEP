@@ -13,7 +13,7 @@
 * 渡航先の位置（座標およびマップ上の位置）
 * 該当する場合は最新のステータスコールに関する情報
 
-![](../../.gitbook/assets/tm_img01%20%289%29.jpg)
+![](../../.gitbook/assets/tm_img01_blue-points.jpg)
 
 
 
