@@ -50,7 +50,7 @@
 公開する前に設定をテストしてください。
 {% endhint %}
 
-![](../../.gitbook/assets/alerting-4.JPG)
+![](../../.gitbook/assets/alerting-4.jpg)
 
 ### どのように実施すればよいですか？
 
