@@ -16,7 +16,7 @@ description: 最寄りの最良の医療機関を検索
 
 対応言語や営業日などの詳細情報を選択するためには、フィルターオプションを使用してください。
 
-![](../.gitbook/assets/mn_img02-filter-option.jpg)
+![](../.gitbook/assets/mn_img02-filter-option%20%281%29.jpg)
 
 絞り込み結果を見るためには、「条件を確定」をクリックしてください。
 
