@@ -20,7 +20,7 @@ description: 渡航者の状況を把握するために
 * 渡航前情報
 * アラート
 
-![](../../.gitbook/assets/tm2.jpg)
+![](../../.gitbook/assets/tm2%20%281%29.jpg)
 
 {% hint style="info" %}
 スムーズに利用開始いただくために、デフォルト設定がなされています。
