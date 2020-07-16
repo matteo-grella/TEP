@@ -8,5 +8,5 @@
 
 ## お知らせ
 
-![](../.gitbook/assets/announcement.jpg)
+![](../.gitbook/assets/announcement%20%281%29.jpg)
 
