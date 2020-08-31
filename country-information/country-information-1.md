@@ -24,3 +24,10 @@ Users with administrator permissions can define the content each user group \(tr
 
 The platform’s content including all communication \(email and phone calls\) is available in several languages, among them French, German, English, Spanish, Italian, Japanese and many more depending on your company set up. Users can select their own language: They just need to go to their user profile and select the language they prefer.
 
+## What is the difference between the various email notifications about security events?
+
+Security-related incidents are the basis for alerts and special alerts, which always result from a potential impact on travellers or sites calculated by the system. If you have set up favorites on the Global Events or Country Risks pages, security-related incidents also trigger an email information about the incident \(security information\).
+
+* Security information are sent individually for each user, regardless of your location or Travel Monitor settings.
+* Security information based on favourites do not trigger any emergency measures or calls.
+
