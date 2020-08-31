@@ -24,10 +24,3 @@ Users with administrator permissions can define the content each user group \(tr
 
 The platform’s content including all communication \(email and phone calls\) is available in several languages, among them French, German, English, Spanish, Italian, Japanese and many more depending on your company set up. Users can select their own language: They just need to go to their user profile and select the language they prefer.
 
-## What is the difference between security information and the alerting in the travel monitor settings?
-
-You can find the term “alert” for different kinds of information in the platform:
-
-* Security information alerts report events in the country regardless of your location or your company set up. Security information alerts do not trigger any emergency procedures or calls.
-* Security information alerts serve as a source of information about current developments in the specific country.
-
